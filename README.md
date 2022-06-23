@@ -6,7 +6,7 @@ Usaremos **Jupyter notebook**
 ```
 pip install jupyter 
 ```
-Buscamos el archivo lissajous.py
+Buscamos el archivo *lissajous_animated.py*
 
 
 *Jugamos con los parámetros deslizando el slider como se ve en la imagen* 
